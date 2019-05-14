@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cognito</string>
+    <string name="app_main_screen_title">Cognito Auth Demo</string>
+
+    <!-- TODO: Add your Cognito pool details here -->
+    <string name="cognito_web_domain">massapesagem-teste.auth.us-east-2.amazoncognito.com</string>
+    <string name="cognito_client_id">25c3q69kheg20kr0jrpkiafe6h</string>
+    <string name="cognito_client_secret">1ep0q2filmjgrr8v6p360slmskg4v9mtcjmoc9sedraneli4bupr</string>
+    <string name="app_redirect">myapp://</string>
+    <string name="user_pool_id">us-east-2_FJdD44en8</string>
+
+    <!-- Values for this demo App -->
+    <string name="app_access_token">access_token</string>
+    <string name="app_id_token">id_token</string>
+</resources>
